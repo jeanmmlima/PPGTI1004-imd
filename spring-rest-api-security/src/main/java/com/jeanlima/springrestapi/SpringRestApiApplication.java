@@ -10,10 +10,10 @@ import com.jeanlima.springrestapi.model.Cliente;
 import com.jeanlima.springrestapi.repository.ClienteRepository;
 
 @SpringBootApplication
-public class SpringRestApiSecurityApplication {
+public class SpringRestApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringRestApiSecurityApplication.class, args);
+		SpringApplication.run(SpringRestApiApplication.class, args);
 	}
 
 }
