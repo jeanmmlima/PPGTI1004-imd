@@ -31,11 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-### VS Code ###
-.vscode/
-.DS_STORE/*
-*/.DS_STORE/*
-src/.DS_Store
-src/main/.DS_Store
-.DS_Store
-../.DS_Store
